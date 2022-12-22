@@ -22,6 +22,7 @@ public class main {
         of.OutlistArray(list);
         of.sort(list);
         of.OutlistArray(list);
+        System.out.println("abc");
         
     }
 }
