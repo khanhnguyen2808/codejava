@@ -20,7 +20,6 @@ public class main {
         epl.printDate(list);
         System.out.println("xếp thâm niên tăng dần ");
         epl.output(list);
-//        epl.arrayList(list);
-//        epl.output(list);
+        System.out.println("abc");
     }
 }
